@@ -266,7 +266,7 @@ $run_sql = mysqli_query($is_connect,$query); // menjalankan query
         </div>
         
         <div class="py-6 px-6 text-center">
-          <p class="mb-0 fs-4">Design and Developed by <a href="https://instagram.com/nur_rijall/" target="_blank" class="pe-1 text-primary text-decoration-underline">Nur Rijal</a></p>
+          <p class="mb-0 fs-4">Design and Developed by <a href="https://instagram.com/robertdrl_/" target="_blank" class="pe-1 text-primary text-decoration-underline">Robertdrl</a></p>
         </div>
       </div>
     </div>
