@@ -39,7 +39,7 @@ $run_sql = mysqli_query($is_connect,$query); // menjalankan query
       <!-- Sidebar scroll-->
       <div>
         <div class="brand-logo d-flex align-items-center justify-content-between">
-          <a href="index.html" class="text-nowrap logo-img">
+          <a href="index.php" class="text-nowrap logo-img">
             <img src="assets/images/logos/Logo.png" width="180" alt="" />
           </a>
           <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
@@ -124,7 +124,7 @@ $run_sql = mysqli_query($is_connect,$query); // menjalankan query
                       <i class="ti ti-list-check fs-6"></i>
                       <p class="mb-0 fs-3">My Task</p>
                     </a>
-                    <a href="authentication-login.html" class="btn btn-outline-primary mx-3 mt-2 d-block">Logout</a>
+                    <a href="login.php" class="btn btn-outline-primary mx-3 mt-2 d-block">Logout</a>
                   </div>
                 </div>
               </li>
